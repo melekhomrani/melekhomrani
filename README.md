@@ -1,7 +1,11 @@
-Hi 👋 My name is Melek Homrani ============================== Web Developer
-------------- * 🌍  I'm based in Tunisia * ✉️  You can contact me at
-[melekhomrani87@gmail.com](mailto:melekhomrani87@gmail.com) * 🧠  I'm learning
-reactjs * 🤝  I'm open to collaborating on web and android apps### Skills
+Hi 👋 My name is Melek Homrani 
+============================== 
+Web Developer
+------------- 
+* 🌍  I'm based in Tunisia 
+* * ✉️  You can contact me at [melekhomrani87@gmail.com](mailto:melekhomrani87@gmail.com) 
+* 🧠  I'm learning reactjs 
+* 🤝  I'm open to collaborating on web and android apps### Skills
 <br>
 <p align="left">
   <a
