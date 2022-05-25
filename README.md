@@ -4,8 +4,9 @@ Web Developer
 ------------- 
 * 🌍  I'm based in Tunisia 
 * ✉️  You can contact me at [melekhomrani87@gmail.com](mailto:melekhomrani87@gmail.com) 
-* 🧠  I'm learning reactjs 
-* 🤝  I'm open to collaborating on web and android apps### Skills
+* 🧠  I'm always learning new technologies 
+* 🤝  I'm open to collaborating on web and android apps
+* ### Skills
 <br>
 <p align="left">
   <a
