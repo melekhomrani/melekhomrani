@@ -39,7 +39,6 @@ Web Developer
       height="36"
       alt="C#"
   /></a>
-  
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
