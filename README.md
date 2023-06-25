@@ -91,12 +91,6 @@ Web Developer
     height="36"
     alt="NodeJS"
   />
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"
-    width="36"
-    height="36"
-    alt="Express"
-  />
 <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg"
     width="36"
