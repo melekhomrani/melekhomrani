@@ -9,22 +9,8 @@ Web Developer
 * 🧠  I'm always learning new technologies
 * 🤝  I'm open to collaborating on web and android apps
 
-* ### Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/melekhomrani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar lengliz" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/melek.homrani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lengliz omar" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/homrani.melek" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar_lengliz1" height="30" width="40" />
-  </a>
-</p>
-
-* ### Skills
-
+<h2> Skills </h2>
 <br>
 <p align="left">
   <img
