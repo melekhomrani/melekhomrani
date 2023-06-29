@@ -194,7 +194,7 @@ Web Developer
 <b>My GitHub Stats</b>
 <br>
 <br>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div >
     <p>
     <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=melekhomrani&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </p>
